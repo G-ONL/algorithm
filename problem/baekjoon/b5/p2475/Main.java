@@ -1,4 +1,4 @@
-package baekjoon.p2475;
+package baekjoon.b5.p2475;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
