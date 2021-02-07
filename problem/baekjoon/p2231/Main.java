@@ -1,11 +1,11 @@
-package baekjoon;
+package baekjoon.p2231;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-class P2231 {
+class Main {
 
   static StringTokenizer ST;
   static BufferedReader BR = new BufferedReader(new InputStreamReader(System.in));

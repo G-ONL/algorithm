@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.p7568;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class P7568 {
+class Main {
 
   static BufferedReader BR = new BufferedReader(new InputStreamReader(System.in));
   static StringTokenizer ST;
